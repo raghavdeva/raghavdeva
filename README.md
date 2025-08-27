@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devashish Bhardwaj</h1>
-<h3 align="center">Building Intelligent Mobile Apps with Flutter, Firebase & AI</h3>
+<h3 align="center">Building Intelligent Mobile Apps with Flutter & AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavdeva&label=Profile%20views&color=0e75b6&style=flat" alt="raghavdeva" /> </p>
 
